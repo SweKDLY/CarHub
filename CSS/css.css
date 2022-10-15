@@ -1,0 +1,26 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+
+.Storruta {
+	
+	padding:100px;
+	height: 1000px;
+	width: 900px;
+    margin:auto;
+	display:flex;
+	align-content:center;
+	
+	background-color: #151818;
+}
+
+
+.TOP {
+	background-color: #181717;
+	height: 100px;
+	width: 900px;
+	margin:0px
+		
+}
